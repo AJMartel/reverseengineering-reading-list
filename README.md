@@ -7,6 +7,7 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 * [Hopper](https://www.hopperapp.com/): Hopper is a reverse engineering tool for OS X and Linux, that lets you disassemble, and decompile your 32/64bits Intel Mac, Linux, Windows and iOS executables! Based on capstone, scriptable.
 * [PeachPy](https://github.com/Maratyszcza/PeachPy): Portable efficient assembly code-generator in higher-level python.
 * [Radare2](http://www.radare.org/): Portable reversing framework for disassembly, debugging, forensics, etc. Based on capstone, scriptable.
+* [x64dbg](http://x64dbg.com/): Open source x64/x32 Windows debugger. Heir to Olly.
 
 ## Android
 * [Offensive & Defensive Android Reverse Engineering](https://github.com/rednaga/training/tree/master/DEFCON23)
@@ -27,6 +28,7 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 * [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901): Practical Malware Analysis will teach you the tools and techniques used by professional analysts. With this book as your guide, you'll be able to safely analyze, debug, and disassemble any malicious software that comes your way.
 * [Practical Reverse Engineering](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315): The book covers x86, x64, and ARM (the first book to cover all three); Windows kernel-mode code rootkits and drivers; virtual machine protection techniques; and much more. Best of all, it offers a systematic approach to the material, with plenty of hands-on exercises and real-world examples.
 * [Reversing: Secrets of Reverse Engineering](https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817): Beginning with a basic primer on reverse engineering-including computer internals, operating systems, and assembly language-and then discussing the various applications of reverse engineering, this book provides readers with practical, in-depth techniques for software reverse engineering.
+* [Reverse Engineering for Beginners](https://beginners.re/): Available in english and russian, this ebook is a good introduction for beginners. Numerous topics are touched : Oracle RDBMS, Itanium, copy-protection dongles, LD_PRELOAD, stack overflow, ELF, win32 PE file format, x86-64, critical sections, syscalls, TLS, position-independent code (PIC), profile-guided optimization, C++ STL, OpenMP, win32 SEH.
 * [The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler](https://www.amazon.com/IDA-Pro-Book-Unofficial-Disassembler/dp/1593272898): Hailed by the creator of IDA Pro as "profound, comprehensive, and accurate," the second edition of The IDA Pro Book covers everything from the very first steps to advanced automation techniques.
 
 ## Data Structures
@@ -87,6 +89,7 @@ If any of the links are down and you can't retrieve them on [archive.org](http:/
 * [Bypassing PatchGuard on Windows x64](http://www.uninformed.org/?v=3&a=3&t=txt)
 * [Disable PatchGuard Vista & Windows 7](http://fyyre.ivory-tower.de/projects/bootloader.txt)
 * [Disable PatchGuard Windows 8 & Windows 10](http://fyyre.ivory-tower.de/projects/bootloader_v2.txt)
+* [Universal Patchguard and Driver Signature Enforcement Disable](https://github.com/hfiref0x/UPGDSED)
 
 ### Win32
 * [PInvoke.net](http://www.pinvoke.net/): PInvoke.net is primarily a wiki, allowing developers to find, edit and add PInvoke* signatures, user-defined types, and any other information related to calling Win32 and other unmanaged APIs from managed code (written in languages such as C# or VB.NET).
